@@ -7,7 +7,7 @@ modified by chengengyue
  * IR remote
  */
 //% icon="\uf1eb" weight=19 color=50
-namespace Mbit_IR {
+namespace 遥控器 {
 
     /**
     * initialization
