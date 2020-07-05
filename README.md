@@ -2,7 +2,7 @@
 
 Extension for ruike mbit_IR
 
-Note: IR receiver for Yahboom receiver
+Note: IR receiver for ruike receiver
 
 ## License
 
